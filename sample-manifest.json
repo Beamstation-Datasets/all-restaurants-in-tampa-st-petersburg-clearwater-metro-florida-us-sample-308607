@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c93c108a-a308-46ad-91b5-5197bafff08c",
+  "export_job_id": "346bc7b8-3d21-4d25-93c3-c52cec595347",
   "id_short": 308607,
-  "published_at": "2026-04-12T07:13:46Z",
+  "published_at": "2026-04-19T19:30:22Z",
   "repo_name": "all-restaurants-in-tampa-st-petersburg-clearwater-metro-florida-us-sample-308607",
   "sample_asset_name": "beamstation_308607_restaurants-us-tampastpetersburgclearwaterfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/308607/beamstation_308607_restaurants-us-tampastpetersburgclearwaterfl_SAMPLE_DIST.csv",
-  "sample_records": 746,
-  "sample_sha256": "b14c2a05f3dd6e539b7ac732de219af8ad4fa7d1d21f65091570799f99c6a47c",
-  "sample_size_bytes": 2534718,
-  "total_records": 7461
+  "sample_records": 734,
+  "sample_sha256": "d66e5f93aaf0e35bc9b013003593cd5b5420b6377d2e2c3eaed86e2db9d6bdfa",
+  "sample_size_bytes": 2506005,
+  "total_records": 7347
 }

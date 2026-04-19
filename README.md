@@ -1,6 +1,6 @@
 # All Restaurants in Tampa-St. Petersburg-Clearwater (Metro), Florida, US
 
-> Free BeamStation sample export with 746 rows and masked direct-contact fields.
+> Free BeamStation sample export with 734 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `308607` |
 | Location | Tampa-St. Petersburg-Clearwater, FL |
 | Category | Restaurants |
-| Full dataset size | 7,461 records |
-| Free sample size | 746 records (10.0%) |
-| Last export | 2026-04-09T14:49:30.460147+00:00 |
+| Full dataset size | 7,347 records |
+| Free sample size | 734 records (9.99%) |
+| Last export | 2026-04-16T16:34:45.428710+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tampa-st-petersburg-clearwater-metro-florida-us-sample-308607/releases/download/sample-latest/beamstation_308607_restaurants-us-tampastpetersburgclearwaterfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
